@@ -21,12 +21,12 @@ Sou um desenvolvedor em formação, atualmente cursando o 4º semestre de **Dese
 
 ### 📁 Projetos em Destaque
 
-#### 📚 [Biblioteca Online Fatec](LINK_DO_REPOSITORIO)
+#### 📚 [Biblioteca Online Fatec]([LINK_DO_REPOSITORIO](https://github.com/HitoshiMiguel/BibliotecaFatecZL.git))
 Sistema Full Stack robusto utilizando **Next.js 15 e React 19**.
 - **Destaque:** Integração com **Google Drive API** para gestão de acervo digital.
 - **Backend:** Node.js com Sequelize para orquestração de banco de dados legado.
 
-#### 🤝 [Sistema de Recrutamento La Salle](LINK_DO_REPOSITORIO)
+#### 🤝 [Sistema de Recrutamento La Salle]([LINK_DO_REPOSITORIO](https://github.com/RaphaelTrindadeOlho/Trabalhe-Conosco-LaSalle.git))
 Plataforma para gestão de processos seletivos com diferentes níveis de acesso (Admin, RH, Candidato).
 - **Tecnologias:** Node.js, Express e MySQL.
 
